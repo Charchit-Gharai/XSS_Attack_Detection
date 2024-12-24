@@ -111,7 +111,7 @@ button:hover {
 st.markdown(css_style, unsafe_allow_html=True)
 
 # Streamlit App UI
-st.markdown('<h1>XSS Attack Type Classification</h1>', unsafe_allow_html=True)
+st.markdown('<h1>XSS Attack Detection and Classification</h1>', unsafe_allow_html=True)
 
 
 # URL input
